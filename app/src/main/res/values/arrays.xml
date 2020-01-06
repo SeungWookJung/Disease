@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="disease_name">
+        <item >결핵</item>
+        <item >B형 간염</item>
+        <item >디프테리아</item>
+        <item >폴리오</item>
+        <item >B형 헤모필루스인플루엔자</item>
+        <item >폐렴구균</item>
+        <item >홍역</item>
+        <item>수두</item>
+        <item>일본뇌염</item>
+        <item>인플루엔자</item>
+        <item>장티푸스</item>
+        <item>신증후군출혈열</item>
+        <item>A형 간염</item>
+        <item>로타바이러스</item>
+        <item>사람유두종바이러스</item>
+        <item>수막구균</item>
+        <item>대상포진</item>
+        <item>파상풍</item>
+        <item>백일해</item>
+        <item>유행성이하선염</item>
+        <item>풍진</item>
+    </string-array>
+</resources>
